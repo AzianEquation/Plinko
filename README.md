@@ -1,6 +1,6 @@
 # Plinko
 Plinko is a simple game built in Unity. The idea is to select a starting point to drop the pluck. The pluck bounces through the grid and lands in a scoring zone. The player gets five tries to accumulate the highest score.
-[Play here]()
+[Play here](https://azianequation.github.io/Plinko/)
 # First Try
 ![image](https://user-images.githubusercontent.com/47394267/72552143-3c6ec980-3864-11ea-89f5-36599431319a.png)
 # The pluck will bounce off of the grid's material
